@@ -21,6 +21,8 @@ Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP
     - [Marketing Growth](#marketing-growth)
     - [Project & Product Management](#project--product-management)
     - [Security, Compliance, & Legal](#security-compliance--legal)
+* [Marketplaces](#marketplaces)
+* [Tutorials](#tutorials)
 * [Tutorials](#tutorials)
 * [Contributing](#contributing)
 
@@ -189,6 +191,11 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [legal-advisor](./plugins/legal-advisor)
 - [legal-compliance-checker](./plugins/legal-compliance-checker)
 
+## Marketplaces
+
+Community-hosted plugin marketplaces you can add directly with `/plugin marketplace add`:
+
+- [protonium](https://github.com/protonium-labs/protonium-marketplace) — AI agents and productivity tools. Includes **AxiomCore**, a project & routine management agent: enforced structure (numbered folders, task IDs, wiki memory), plan → approve → execute workflow, agile or WBS project creation.
 
 ## Tutorials
 
