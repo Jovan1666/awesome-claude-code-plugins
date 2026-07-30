@@ -197,6 +197,10 @@ Community-hosted plugin marketplaces you can add directly with `/plugin marketpl
 
 - [protonium](https://github.com/protonium-labs/protonium-marketplace) — AI agents and productivity tools. Includes **AxiomCore**, a project & routine management agent: enforced structure (numbered folders, task IDs, wiki memory), plan → approve → execute workflow, agile or WBS project creation.
 
+```bash
+/plugin marketplace add protonium-labs/protonium-marketplace
+```
+
 ## Tutorials
 
 You can host and share your own curated plugin marketplace using a simple Git repository with a `.claude-plugin/marketplace.json` file.
