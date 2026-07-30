@@ -21,6 +21,7 @@
     - [市场营销与增长](#市场营销与增长)
     - [项目与产品管理](#项目与产品管理)
     - [安全、合规与法律](#安全、合规与法律)
+* [插件市场](#插件市场)
 * [使用教程](#使用教程)
 * [如何贡献](#如何贡献)
 
@@ -189,6 +190,14 @@
 - [legal-advisor](./plugins/legal-advisor)
 - [legal-compliance-checker](./plugins/legal-compliance-checker)
 
+## 插件市场
+
+可通过 `/plugin marketplace add` 直接添加的社区插件市场：
+
+- [protonium](https://github.com/protonium-labs/protonium-marketplace) —— AI 智能体与效率工具。包含 **AxiomCore**：项目与日常事务管理智能体，提供强制化结构（编号目录、任务 ID、wiki 记忆）、计划 → 确认 → 执行工作流，支持敏捷或 WBS 方式创建项目.
+```bash
+ /plugin marketplace add protonium-labs/protonium-marketplace
+```
 
 ## 使用教程
 
