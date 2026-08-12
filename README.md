@@ -221,6 +221,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [wondelai-skills](https://github.com/wondelai/skills)
 
 ### Project & Product Management
+- [bleu](https://github.com/Nirvaan05/Bleu-plugin)
 - [discuss](./plugins/discuss)
 - [explore](./plugins/explore)
 - [fractal](https://github.com/rmolines/fractal) - Recursive project management plugin. Decomposes any goal into verifiable predicates, works on the riskiest unknown first. Features `/fractal:run` (idempotent state machine), `/fractal:init`, `/fractal:patch`, dry run mode, and incremental decomposition with re-evaluation.
