@@ -88,6 +88,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [qovery-deploy](https://github.com/Qovery/qovery-skills) - Deploy any app to Kubernetes on AWS/GCP/Azure/Scaleway. Creates Dockerfiles, provisions databases, deploys via CLI+API or Terraform. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`
 
 ### Business Sales
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - [b2b-project-shipper](./plugins/b2b-project-shipper)
 - [customer-success-manager](./plugins/customer-success-manager)
 - [enterprise-onboarding-specialist](./plugins/enterprise-onboarding-specialist)
