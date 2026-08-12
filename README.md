@@ -112,6 +112,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [autoresearch](./plugins/autoresearch)
 - [api-tester](./plugins/api-tester)
 - [bug-detective](./plugins/bug-detective)
+- [claudex](./plugins/claudex)
 - [code-review](./plugins/code-review)
 - [code-review-assistant](./plugins/code-review-assistant)
 - [code-reviewer](./plugins/code-reviewer)
