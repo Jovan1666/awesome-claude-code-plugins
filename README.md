@@ -171,6 +171,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [python-expert](./plugins/python-expert)
 - [rapid-prototyper](./plugins/rapid-prototyper)
 - [react-native-dev](./plugins/react-native-dev)
+- [silicon-friendly](./plugins/silicon-friendly)
 - [vision-specialist](./plugins/vision-specialist)
 - [web-dev](./plugins/web-dev)
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices) - Tailwind CSS v4 patterns — stop agents from generating v3 code
