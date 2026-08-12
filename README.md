@@ -235,6 +235,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [reddit-community-builder](./plugins/reddit-community-builder)
 - [taisly-agent-kit](https://github.com/taisly/agent)
 - [tiktok-strategist](./plugins/tiktok-strategist)
+- [toprank](./plugins/toprank)
 - [twitter-engager](./plugins/twitter-engager)
 - [wondelai-skills](https://github.com/wondelai/skills)
 
