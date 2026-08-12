@@ -58,6 +58,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 ### Workflow Orchestration
 - [agent-triforce](https://github.com/ArtemioPadilla/agent-triforce) - 3-agent PM/Dev/QA system with WHO checklist methodology. Prometeo (PM), Forja (Dev), Centinela (QA) with 24 checklists, 6 skills, and auto-generated HTML dashboard.
 - [angelos-symbo](./plugins/angelos-symbo)
+- **[claude-brain](https://github.com/toroleapinc/claude-brain)** — Sync and evolve your Claude Code brain across machines. Auto-syncs memory, skills, agents, rules, and CLAUDE.md via Git with LLM-powered semantic merge.
 - [ceo-quality-controller-agent](./plugins/ceo-quality-controller-agent)
 - [claude-desktop-extension](./plugins/claude-desktop-extension)
 - [equilateral-agents](https://github.com/Equilateral-AI/equilateral-agents-open-core) - 22 self-learning agents with memory, security review, code quality, deployment validation, and infrastructure checks
