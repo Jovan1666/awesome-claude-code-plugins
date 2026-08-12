@@ -132,6 +132,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [analytics-reporter](./plugins/analytics-reporter)
 - [crypto-trading-desk](./plugins/crypto-trading-desk)
 - [data-scientist](./plugins/data-scientist)
+- [dna-claude-analysis](./plugins/dna-claude-analysis)
 - [experiment-tracker](./plugins/experiment-tracker)
 - [feedback-synthesizer](./plugins/feedback-synthesizer)
 - [newsmcp](https://github.com/pranciskus/newsmcp) — Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.

@@ -104,6 +104,7 @@
 - [analytics-reporter](./plugins/analytics-reporter)
 - [crypto-trading-desk](./plugins/crypto-trading-desk)
 - [data-scientist](./plugins/data-scientist)
+- [dna-claude-analysis](./plugins/dna-claude-analysis)
 - [experiment-tracker](./plugins/experiment-tracker)
 - [feedback-synthesizer](./plugins/feedback-synthesizer)
 - [trend-researcher](./plugins/trend-researcher)
