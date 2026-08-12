@@ -217,6 +217,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [claude-rank](https://github.com/Houseofmvps/claude-rank) - SEO/GEO/AEO audit with 170+ rules, auto-fix for robots.txt/sitemap.xml/llms.txt/JSON-LD
 - [content-creator](./plugins/content-creator)
 - [growth-hacker](./plugins/growth-hacker)
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) - Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approval-gated actions.
 - [instagram-curator](./plugins/instagram-curator)
 - [reddit-community-builder](./plugins/reddit-community-builder)
 - [tiktok-strategist](./plugins/tiktok-strategist)
