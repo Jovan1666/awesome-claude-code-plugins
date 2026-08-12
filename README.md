@@ -69,6 +69,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [problem-solver-specialist](./plugins/problem-solver-specialist)
 - [studio-coach](./plugins/studio-coach)
 - [ultrathink](./plugins/ultrathink)
+- [pro-workflow](https://github.com/rohitg00/pro-workflow) - Self-correcting memory, 17 skills, 6 agents, 16 commands, 23 hooks. Context engineering, parallel worktrees, and agent teams.
 
 ### AI & Speech
 - [speech-ai](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI plugin with pronunciation assessment, text-to-speech, and speech-to-text. 8 MCP tools for language learning, accessibility, and voice applications.
