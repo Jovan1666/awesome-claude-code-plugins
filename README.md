@@ -143,6 +143,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [api-integration-specialist](./plugins/api-integration-specialist)
 - [backend-architect](./plugins/backend-architect)
+- [blueprint](https://github.com/JuliusBrussee/blueprint)
 - [code-architect](./plugins/code-architect)
 - [desktop-app-dev](./plugins/desktop-app-dev)
 - [enterprise-integrator-architect](./plugins/enterprise-integrator-architect)
