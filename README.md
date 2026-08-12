@@ -33,7 +33,7 @@ Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP
 - **Slash Commands** — Custom shortcuts for frequent operations
 - **Subagents** — Purpose-built agents for specialized dev tasks
 - **MCP Servers** — Integrations to tools and data sources via the Model Context Protocol
-- **Hooks** — Extensions that modify Claude Code’s behavior at key workflow points
+- **Hooks** — Extensions that modify Claude Code's behavior at key workflow points
 
 Install or disable them dynamically with the `/plugin` command — enabling you to keep your system context focused and lightweight.
 
@@ -205,6 +205,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 ### Project & Product Management
 - [discuss](./plugins/discuss)
 - [explore](./plugins/explore)
+- [fractal](https://github.com/rmolines/fractal) - Recursive project management plugin. Decomposes any goal into verifiable predicates, works on the riskiest unknown first. Features `/fractal:run` (idempotent state machine), `/fractal:init`, `/fractal:patch`, dry run mode, and incremental decomposition with re-evaluation.
 - [plan](./plugins/plan)
 - [planning-prd-agent](./plugins/planning-prd-agent)
 - [plannotator](https://github.com/backnotprop/plannotator) - Interactive plan review UI with visual annotation (install via `/plugin marketplace add backnotprop/plannotator`)
@@ -244,7 +245,7 @@ You can host and share your own curated plugin marketplace using a simple Git re
 /plugin marketplace add user-or-org/repo-name
 ```
 
-Then browse and install plugins from within Claude Code’s `/plugin` menu.
+Then browse and install plugins from within Claude Code's `/plugin` menu.
 
 Example:
 
