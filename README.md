@@ -61,6 +61,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [equilateral-agents](https://github.com/Equilateral-AI/equilateral-agents-open-core) - 22 self-learning agents with memory, security review, code quality, deployment validation, and infrastructure checks
 - [lyra](./plugins/lyra)
 - [model-context-protocol-mcp-expert](./plugins/model-context-protocol-mcp-expert)
+- [now-next-methodology](https://github.com/soutone/now-next-methodology) - Two-file task management system for Claude Code/OpenCode: NOW.md tracks current work, NEXT.md queues future tasks with /next command
 - [problem-solver-specialist](./plugins/problem-solver-specialist)
 - [studio-coach](./plugins/studio-coach)
 - [ultrathink](./plugins/ultrathink)
