@@ -220,6 +220,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) - Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approval-gated actions.
 - [instagram-curator](./plugins/instagram-curator)
 - [reddit-community-builder](./plugins/reddit-community-builder)
+- [taisly-agent-kit](https://github.com/taisly/agent)
 - [tiktok-strategist](./plugins/tiktok-strategist)
 - [twitter-engager](./plugins/twitter-engager)
 - [wondelai-skills](https://github.com/wondelai/skills)
