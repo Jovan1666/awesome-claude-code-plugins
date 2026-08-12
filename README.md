@@ -143,6 +143,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [nano-banana](https://github.com/Ibrahim-3d/nano-banana-claude-plugin) - Google Gemini image generation plugin. Text-to-image, text-guided image editing, style transfer, 4K output, search grounding, and multi-reference composition via `/genimage`. Uses `gemini-2.5-flash-image` (fast) and `gemini-3-pro-image-preview` (4K/search).
 - [onomastophes](./plugins/onomastophes)
 - [ui-designer](./plugins/ui-designer)
+- [ux](https://github.com/Laith0003/ux-skill)
 - [ux-researcher](./plugins/ux-researcher)
 - [visual-storyteller](./plugins/visual-storyteller)
 - [whimsy-injector](./plugins/whimsy-injector)
