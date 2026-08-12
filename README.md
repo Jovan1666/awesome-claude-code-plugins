@@ -87,6 +87,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [devops-automator](./plugins/devops-automator)
 - [MyVibe](https://www.myvibe.so) - Instant deployment with `/myvibe:publish`
 - [infrastructure-maintainer](./plugins/infrastructure-maintainer)
+- [kubestellar-console](./plugins/kubestellar-console)
 - [monitoring-observability-specialist](./plugins/monitoring-observability-specialist)
 - [n8n-workflow-builder](./plugins/n8n-workflow-builder)
 - [qovery-deploy](https://github.com/Qovery/qovery-skills) - Deploy any app to Kubernetes on AWS/GCP/Azure/Scaleway. Creates Dockerfiles, provisions databases, deploys via CLI+API or Terraform. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`
