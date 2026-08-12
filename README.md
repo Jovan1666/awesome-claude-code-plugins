@@ -122,6 +122,9 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [newsmcp](https://github.com/pranciskus/newsmcp) — Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [trend-researcher](./plugins/trend-researcher)
 
+### Audio & Media
+- [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
+
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
 - [joker](./plugins/joker)
