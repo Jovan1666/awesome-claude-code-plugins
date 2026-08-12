@@ -74,6 +74,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [model-context-protocol-mcp-expert](./plugins/model-context-protocol-mcp-expert)
 - [now-next-methodology](https://github.com/soutone/now-next-methodology) - Two-file task management system for Claude Code/OpenCode: NOW.md tracks current work, NEXT.md queues future tasks with /next command
 - [problem-solver-specialist](./plugins/problem-solver-specialist)
+- [reviewer-author-loop](./plugins/reviewer-author-loop)
 - [studio-coach](./plugins/studio-coach)
 - [ultrathink](./plugins/ultrathink)
 - [pro-workflow](https://github.com/rohitg00/pro-workflow) - Self-correcting memory, 17 skills, 6 agents, 16 commands, 23 hooks. Context engineering, parallel worktrees, and agent teams.
